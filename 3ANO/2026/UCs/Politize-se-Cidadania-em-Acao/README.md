@@ -8,7 +8,7 @@
 
 ## Acesso Rápido: Slides e Atividades
 
-Use a tabela abaixo para acessar rapidamente os materiais de apresentação de cada aula e os links diretos para a entrega das atividades no Microsoft Teams:
+**Situação de aprendizagem 1 - Auditoria Constitucional e o Desenho dos Três Poderes**
 
 | Encontro | Tema da Aula | 🖥️ Slides de Aula (Google) | 📝 Atividade / Tarefa (Teams) |
 | :---: | :--- | :---: | :---: |
@@ -16,7 +16,18 @@ Use a tabela abaixo para acessar rapidamente os materiais de apresentação de c
 | **02** | Painel Invertido: As Engrenagens dos Três Poderes | [Acessar Slides](https://docs.google.com/presentation/d/1DYo1BqUb8SkhrDS6Oqc2T9K73ExIwWlbRAcOkTxd5zw/edit?usp=sharing) | [Acessar Tarefa](https://docs.google.com/document/d/14oVkZSOzV8V9P-rsEpj502IHfmb0v-IRDKW73BkJCAs/edit?usp=sharing) |
 | **03** | Sistema Eleitoral e Dimensões da Cidadania | [Acessar Slides](https://docs.google.com/presentation/d/1lGFx9REzOxrtbz9GFVrc7PJ6ylHyFIp1J3PokXlo2vU/edit?usp=sharing) | [Acessar Tarefa](https://docs.google.com/document/d/1u2Og52k8eapZwd60qArFN9TpKQCovMEMA0pjRqGZRaU/edit?usp=sharing) |
 | **04** | Laboratório Prático: Design do Infográfico | [Acessar Slides](https://docs.google.com/presentation/d/1QfKVRrh-Uhef2WzDQoQbs2FlLP14iDOMN4Y3Ik_qCHE/edit?usp=sharing) | [Acessar Tarefa](https://docs.google.com/document/d/102gp-6FGtizyGoF9qsnuLJvyfrxnDrroiJx0cj9aZHQ/edit?usp=sharing) |
-<!--| **05** | Tribunal da Cidadania: Mostra Técnica e Feedback | [Acessar Slides](CONECTAR_LINK_AQUI) | [Acessar Tarefa](CONECTAR_LINK_AQUI) | -->
+| **05** | Tribunal da Cidadania: Mostra Técnica e Feedback | [Acessar Slides](https://docs.google.com/presentation/d/1CA_lsRR6drmEza9LAsFYjPUbWFrkCqhlgWCcVsTC7XY/edit?usp=sharing) | [Acessar Tarefa](https://docs.google.com/document/d/1Ic-svT72pjuxe-e9ulOr2HrMzVZKyJJ3G1XnhdpRbnw/edit?usp=sharing) |
+
+
+**Situação de aprendizagem 2 - Hackathon Social — Soluções para a Cidadania Ativa**
+
+| Encontro | Tema da Aula | 🖥️ Slides de Aula (Google) | 📝 Atividade / Tarefa (Teams) |
+| :---: | :--- | :---: | :---: |
+| **01** | A DEFINIR | [Acessar Slides](Aula aqui) | [Acessar Tarefa]() |
+| **02** | A DEFINIR | [Acessar Slides](Aula aqui) | [Acessar Tarefa]() |
+| **03** | A DEFINIR | [Acessar Slides](Aula aqui) | [Acessar Tarefa]() |
+| **04** | A DEFINIR | [Acessar Slides](Aula aqui) | [Acessar Tarefa]() |
+| **05** | A DEFINIR | [Acessar Slides](Aula aqui) | [Acessar Tarefa]() |
 
 
 ---
