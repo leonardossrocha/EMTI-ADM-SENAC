@@ -23,11 +23,11 @@
 
 | Encontro | Tema da Aula | 🖥️ Slides de Aula (Google) | 📝 Atividade / Tarefa (Teams) |
 | :---: | :--- | :---: | :---: |
-| **01** | A DEFINIR | [Acessar Slides](Aula aqui) | [Acessar Tarefa]() |
-| **02** | A DEFINIR | [Acessar Slides](Aula aqui) | [Acessar Tarefa]() |
-| **03** | A DEFINIR | [Acessar Slides](Aula aqui) | [Acessar Tarefa]() |
-| **04** | A DEFINIR | [Acessar Slides](Aula aqui) | [Acessar Tarefa]() |
-| **05** | A DEFINIR | [Acessar Slides](Aula aqui) | [Acessar Tarefa]() |
+| **01** | A DEFINIR | [Acessar Slides]() | [Acessar Tarefa]() |
+| **02** | A DEFINIR | [Acessar Slides]() | [Acessar Tarefa]() |
+| **03** | A DEFINIR | [Acessar Slides]() | [Acessar Tarefa]() |
+| **04** | A DEFINIR | [Acessar Slides]() | [Acessar Tarefa]() |
+| **05** | A DEFINIR | [Acessar Slides]() | [Acessar Tarefa]() |
 
 
 ---
