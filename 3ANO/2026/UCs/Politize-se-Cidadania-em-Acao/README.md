@@ -18,7 +18,6 @@ Use a tabela abaixo para acessar rapidamente os materiais de apresentação de c
 | **04** | Laboratório Prático: Design do Infográfico | [Acessar Slides](CONECTAR_LINK_AQUI) | [Acessar Tarefa](CONECTAR_LINK_AQUI) |
 | **05** | Tribunal da Cidadania: Mostra Técnica e Feedback | [Acessar Slides](CONECTAR_LINK_AQUI) | [Acessar Tarefa](CONECTAR_LINK_AQUI) | -->
 
-> 💡 *Dica: Professor, basta substituir os textos `CONECTAR_LINK_AQUI` pelos links gerados no Google Drive e no Teams da sua turma para que os alunos naveguem direto.*
 
 ---
 
