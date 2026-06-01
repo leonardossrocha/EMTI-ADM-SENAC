@@ -43,13 +43,13 @@ Para atingir a aprovação nesta Unidade Curricular, o estudante deve demonstrar
 
 A nossa UC está dividida estrategicamente em **duas grandes Situações de Aprendizagem (SAs)** de 20 horas cada, conectando conceitos teóricos com desafios práticos do ecossistema de Londrina:
 
-### [SA 1 - Auditoria Constitucional e o Desenho dos Três Poderes](./SA1-Auditoria-Constitucional/) (20h)
+### [SA 1 - Auditoria Constitucional e o Desenho dos Três Poderes]() (20h)
 * **Foco:** Organização do Estado, Sistema Federativo, e o mecanismo de freios e contrapesos.
 * **Metodologia:** Sala de Aula Invertida + Estudo de Caso Jurídico-Político.
 * **Desafio Prático:** Analisar e auditar o impasse institucional e comercial fictício ocorrido na Avenida Saul Elkind, na Zona Norte de Londrina.
 * **Ação Final:** Desenvolvimento e apresentação de um Infográfico/Mapa Conceitual do fluxo de tomada de decisão legal.
 
-### [SA 2 - Hackathon Social — Soluções para a Cidadania Ativa](./SA2-Hackathon-Social/) (20h)
+### [SA 2 - Hackathon Social — Soluções para a Cidadania Ativa]() (20h)
 * **Foco:** Dimensões da cidadania, Direitos Humanos, Diversidade e Comunicação Não Violenta (CNV).
 * **Metodologia:** Aprendizagem Baseada em Problemas (PBL) + Oficina de Comunicação Assertiva.
 * **Desafio Prático:** Atuar como uma ONG de Direitos Humanos para propoer uma política pública simulada ou projeto social que resolva vulnerabilidades reais da comunidade local.
