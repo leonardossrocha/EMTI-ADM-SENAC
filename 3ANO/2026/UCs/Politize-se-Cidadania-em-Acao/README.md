@@ -1,0 +1,69 @@
+# 🗳️ Unidade Curricular: Politize-se: Cidadania em Ação
+
+**Carga Horária Total:** 40 Horas  
+**Curso:** Ensino Médio Integrado ao Técnico em Administração (3º Ano)  
+**Docente Responsável:** Prof. Msc. Leonardo S. S. da Rocha (Léo Rocha)[cite: 1]
+
+---
+
+## 🎯 Apresentação da UC
+
+Esta Unidade Curricular tem como objetivo despertar a visão crítica, a autonomia e o protagonismo social e econômico dos estudantes por meio do entendimento prático dos direitos fundamentais e da organização do Estado brasileiro[cite: 1]. 
+
+Como futuros administradores, compreender o desenho institucional dos Três Poderes e os mecanismos de cidadania ativa é essencial para a tomada de decisões éticas, mediação de conflitos e identificação de oportunidades de impacto no mercado e na comunidade[cite: 1].
+
+---
+
+## 📈 Indicadores de Competência (O que será avaliado)
+
+Para atingir a aprovação nesta Unidade Curricular, o estudante deve demonstrar o alcance dos seguintes indicadores profissionais[cite: 1]:
+
+1. **Indicador 1:** Reconhece e diferencia a divisão e organização dos três poderes políticos no Brasil, conforme a Constituição Federal Brasileira[cite: 1].
+2. **Indicador 2:** Propõe situações para o exercício pleno da cidadania a partir das reflexões realizadas e da legislação em vigor[cite: 1].
+
+---
+
+## 🗺️ Estrutura do Cronograma (40 Horas)
+
+A nossa UC está dividida estrategicamente em **duas grandes Situações de Aprendizagem (SAs)** de 20 horas cada, conectando conceitos teóricos com desafios práticos do ecossistema de Londrina[cite: 1]:
+
+### 🏛️ [SA 1 - Auditoria Constitucional e o Desenho dos Três Poderes](./SA1-Auditoria-Constitucional/) (20h)
+* **Foco:** Organização do Estado, Sistema Federativo, e o mecanismo de freios e contrapesos[cite: 1].
+* **Metodologia:** Sala de Aula Invertida + Estudo de Caso Jurídico-Político[cite: 1].
+* **Desafio Prático:** Analisar e auditar o impasse institucional e comercial fictício ocorrido na Avenida Saul Elkind, na Zona Norte de Londrina[cite: 1].
+* **Ação Final:** Desenvolvimento e apresentação de um Infográfico/Mapa Conceitual do fluxo de tomada de decisão legal[cite: 1].
+
+### 💡 [SA 2 - Hackathon Social — Soluções para a Cidadania Ativa](./SA2-Hackathon-Social/) (20h)
+* **Foco:** Dimensões da cidadania, Direitos Humanos, Diversidade e Comunicação Não Violenta (CNV)[cite: 1].
+* **Metodologia:** Aprendizagem Baseada em Problemas (PBL) + Oficina de Comunicação Assertiva[cite: 1].
+* **Desafio Prático:** Atuar como uma ONG de Direitos Humanos para propor uma política pública simulada ou projeto social que resolva vulnerabilidades reais da comunidade local[cite: 1].
+* **Ação Final:** Apresentação do projeto no formato de *Pitch de Negócios Sociais* para uma banca avaliadora[cite: 1].
+
+---
+
+## 🧠 Conteúdos e Saberes Mobilizados
+
+Ao longo dos encontros, articularemos os seguintes conhecimentos, habilidades e atitudes[cite: 1]:
+
+| 📘 Conhecimentos | 🛠️ Habilidades | 🤝 Atitudes e Valores |
+| :--- | :--- | :--- |
+| • Organização do Estado (Executivo, Legislativo, Judiciário)<br>• Sistema Federativo e Eleitoral Partidário<br>• Direitos e Garantias Fundamentais (CF/88)<br>• Dimensões da Cidadania e Ética<br>• Declaração Universal dos Direitos Humanos<br>• Comunicação Não Violenta (CNV)[cite: 1] | • Mediar conflitos em situações de trabalho<br>• Comunicar-se de maneira assertiva<br>• Interpretar textos legais<br>• Pesquisar dados e informações em sites especializados (Planalto, STF, IBGE)[cite: 1] | • Empatia no trato com as pessoas<br>• Flexibilidade em posicionamentos<br>• Zelo com a postura pessoal no ambiente de trabalho<br>• Responsabilidade com acordos estabelecidos[cite: 1] |
+
+---
+
+## 💎 Marcas Formativas do SENAC em Evidência
+
+Este projeto pedagógico foi desenhado para consolidar o seu perfil profissional por meio das seguintes marcas formativas[cite: 1]:
+* **Domínio técnico-científico:** Aplicação rigorosa da legislação e de dados de mercado[cite: 1].
+* **Visão crítica:** Entendimento dos impactos sociais de decisões políticas e administrativas[cite: 1].
+* **Colaboração e Comunicação:** Trabalho em equipe com escuta ativa e oratória assertiva[cite: 1].
+* **Autonomia digital:** Uso de ferramentas tecnológicas para pesquisa e design de soluções[cite: 1].
+* **Protagonismo juvenil, social e econômico:** Liderança ativa na proposição de melhorias para a comunidade[cite: 1].
+
+---
+
+## ⚠️ Regras e Alinhamentos Importantes
+
+* **Central de Materiais:** Os slides (Google Apresentações) e roteiros de cada encontro estarão organizados dentro das pastas de cada SA neste repositório.
+* **Uso do Teams:** O GitHub serve para consulta de documentação e materiais. Os canais de discussão, fóruns de dúvidas e, principalmente, os **prazos e uploads das tarefas para avaliação** acontecem exclusivamente via **Microsoft Teams**.
+* **Avaliação de Processo:** A participação, o comprometimento individual nas dinâmicas de Sala de Aula Invertida e o trabalho em equipe contam diretamente para a sua menção atitudinal final (**A, PA, NA**)[cite: 1].
