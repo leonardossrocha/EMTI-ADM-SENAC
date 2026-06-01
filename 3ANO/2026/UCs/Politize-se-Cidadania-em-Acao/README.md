@@ -6,6 +6,22 @@
 
 ---
 
+## 🚀 Acesso Rápido: Slides e Atividades
+
+Use a tabela abaixo para acessar rapidamente os materiais de apresentação de cada aula e os links diretos para a entrega das atividades no Microsoft Teams:
+
+| Encontro | Tema da Aula | 🖥️ Slides de Aula (Google) | 📝 Atividade / Tarefa (Teams) |
+| :---: | :--- | :---: | :---: |
+| **01** | O Impasse de Londrina & Lançamento da Consultoria[cite: 1] | [Acessar Slides](https://docs.google.com/presentation/d/1zKfA512uym3I3Wbbch2TDRXUYP5NncKvg-dbbj6swFo/edit?usp=sharing) | - |
+| **02** | Painel Invertido: As Engrenagens dos Três Poderes[cite: 1] | [Acessar Slides](https://docs.google.com/presentation/d/1DYo1BqUb8SkhrDS6Oqc2T9K73ExIwWlbRAcOkTxd5zw/edit?usp=sharing) | [Acessar Tarefa](https://docs.google.com/document/d/14oVkZSOzV8V9P-rsEpj502IHfmb0v-IRDKW73BkJCAs/edit?usp=sharing) |
+<!-- | **03** | Sistema Eleitoral e Dimensões da Cidadania[cite: 1] | [Acessar Slides](CONECTAR_LINK_AQUI) | [Acessar Tarefa](CONECTAR_LINK_AQUI) |
+| **04** | Laboratório Prático: Design do Infográfico[cite: 1] | [Acessar Slides](CONECTAR_LINK_AQUI) | [Acessar Tarefa](CONECTAR_LINK_AQUI) |
+| **05** | Tribunal da Cidadania: Mostra Técnica e Feedback[cite: 1] | [Acessar Slides](CONECTAR_LINK_AQUI) | [Acessar Tarefa](CONECTAR_LINK_AQUI) | -->
+
+> 💡 *Dica: Professor, basta substituir os textos `CONECTAR_LINK_AQUI` pelos links gerados no Google Drive e no Teams da sua turma para que os alunos naveguem direto.*
+
+---
+
 ## 🎯 Apresentação da UC
 
 Esta Unidade Curricular tem como objetivo despertar a visão crítica, a autonomia e o protagonismo social e econômico dos estudantes por meio do entendimento prático dos direitos fundamentais e da organização do Estado brasileiro[cite: 1]. 
@@ -36,7 +52,7 @@ A nossa UC está dividida estrategicamente em **duas grandes Situações de Apre
 ### 💡 [SA 2 - Hackathon Social — Soluções para a Cidadania Ativa](./SA2-Hackathon-Social/) (20h)
 * **Foco:** Dimensões da cidadania, Direitos Humanos, Diversidade e Comunicação Não Violenta (CNV)[cite: 1].
 * **Metodologia:** Aprendizagem Baseada em Problemas (PBL) + Oficina de Comunicação Assertiva[cite: 1].
-* **Desafio Prático:** Atuar como uma ONG de Direitos Humanos para propor uma política pública simulada ou projeto social que resolva vulnerabilidades reais da comunidade local[cite: 1].
+* **Desafio Prático:** Atuar como uma ONG de Direitos Humanos para propoer uma política pública simulada ou projeto social que resolva vulnerabilidades reais da comunidade local[cite: 1].
 * **Ação Final:** Apresentação do projeto no formato de *Pitch de Negócios Sociais* para uma banca avaliadora[cite: 1].
 
 ---
