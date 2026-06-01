@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Acesso Rápido: Slides e Atividades
+## Acesso Rápido: Slides e Atividades
 
 Use a tabela abaixo para acessar rapidamente os materiais de apresentação de cada aula e os links diretos para a entrega das atividades no Microsoft Teams:
 
@@ -22,7 +22,7 @@ Use a tabela abaixo para acessar rapidamente os materiais de apresentação de c
 
 ---
 
-## 🎯 Apresentação da UC
+## Apresentação da UC
 
 Esta Unidade Curricular tem como objetivo despertar a visão crítica, a autonomia e o protagonismo social e econômico dos estudantes por meio do entendimento prático dos direitos fundamentais e da organização do Estado brasileiro. 
 
@@ -30,7 +30,7 @@ Como futuros administradores, compreender o desenho institucional dos Três Pode
 
 ---
 
-## 📈 Indicadores de Competência (O que será avaliado)
+## Indicadores de Competência (O que será avaliado)
 
 Para atingir a aprovação nesta Unidade Curricular, o estudante deve demonstrar o alcance dos seguintes indicadores profissionais:
 
@@ -61,7 +61,7 @@ A nossa UC está dividida estrategicamente em **duas grandes Situações de Apre
 
 Ao longo dos encontros, articularemos os seguintes conhecimentos, habilidades e atitudes[cite: 1]:
 
-| 📘 Conhecimentos | 🛠️ Habilidades | 🤝 Atitudes e Valores |
+| Conhecimentos | Habilidades | Atitudes e Valores |
 | :--- | :--- | :--- |
 | • Organização do Estado (Executivo, Legislativo, Judiciário)<br>• Sistema Federativo e Eleitoral Partidário<br>• Direitos e Garantias Fundamentais (CF/88)<br>• Dimensões da Cidadania e Ética<br>• Declaração Universal dos Direitos Humanos<br>• Comunicação Não Violenta (CNV) | • Mediar conflitos em situações de trabalho<br>• Comunicar-se de maneira assertiva<br>• Interpretar textos legais<br>• Pesquisar dados e informações em sites especializados (Planalto, STF, IBGE) | • Empatia no trato com as pessoas<br>• Flexibilidade em posicionamentos<br>• Zelo com a postura pessoal no ambiente de trabalho<br>• Responsabilidade com acordos estabelecidos |
 
@@ -78,7 +78,7 @@ Este projeto pedagógico foi desenhado para consolidar o seu perfil profissional
 
 ---
 
-## ⚠️ Regras e Alinhamentos Importantes
+## Regras e Alinhamentos Importantes
 
 * **Central de Materiais:** Os slides (Google Apresentações) e roteiros de cada encontro estarão organizados dentro das pastas de cada SA neste repositório.
 * **Uso do Teams:** O GitHub serve para consulta de documentação e materiais. Os canais de discussão, fóruns de dúvidas e, principalmente, os **prazos e uploads das tarefas para avaliação** acontecem exclusivamente via **Microsoft Teams**.
