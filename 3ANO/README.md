@@ -8,7 +8,7 @@ Bem-vindo à central de Unidades Curriculares do 3º Ano. Esta pasta reúne todo
 
 Clique na UC desejada para acessar o cronograma completo, os links dos slides de aula, orientações para tarefas e materiais de apoio:
 
-### [UC 1 - Politize-se: Cidadania em Ação](./UCs/Politize-se-Cidadania-em-Acao/) (40h)
+### [UC 1 - Politize-se: Cidadania em Ação](./2026/UCs/Politize-se-Cidadania-em-Acao/) (40h)
 *   **Foco:** Organização do Estado, Três Poderes, Direitos Humanos e Comunicação Não Violenta.
 *   **Projetos:** Auditoria Constitucional na Saul Elkind e Hackathon Social.
 <!-- 
