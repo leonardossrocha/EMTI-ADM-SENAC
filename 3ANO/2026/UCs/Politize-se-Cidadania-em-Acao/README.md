@@ -2,7 +2,7 @@
 
 **Carga Horária Total:** 40 Horas  
 **Curso:** Ensino Médio Integrado ao Técnico em Administração (3º Ano)  
-**Docente Responsável:** Prof. Msc. Leonardo S. S. da Rocha (Léo Rocha)[cite: 1]
+**Docente Responsável:** Prof. Msc. [Leonardo Rocha](https://www.linkedin.com/in/leonardossrocha/)
 
 ---
 
