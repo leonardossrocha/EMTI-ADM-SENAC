@@ -23,8 +23,8 @@
 
 | Encontro | Tema da Aula | 🖥️ Slides de Aula (Google) | 📝 Atividade / Tarefa (Teams) |
 | :---: | :--- | :---: | :---: |
-| **01** | A DEFINIR | [Acessar Slides]() | [Acessar Tarefa]() |
-| **02** | A DEFINIR | [Acessar Slides]() | [Acessar Tarefa]() |
+| **01** | Hackathon Social: Soluções para a Cidadania Ativa | [Acessar Slides](https://docs.google.com/presentation/d/1d-gsdxgcN3tjt1E-HolIB7pfoanMz1Lmh9MMyvmh7Tc/edit?usp=sharing) | [Acessar Tarefa](https://docs.google.com/document/d/1yROjvpmBBDJedJHMILxkGp50tzV6klsBANU7UJ3Ss0w/edit?usp=sharing) |
+| **02** | Comunicação Não Violenta | [Acessar Slides](https://docs.google.com/presentation/d/1krOM_2zFxSJ07qfHyhVUmoJCKbaEA6y8VD-1RoDaE-8/edit?usp=sharing) | [Acessar Tarefa](https://docs.google.com/document/d/12x77sAR24WpcEoWYgUcS6T8hMhHQ5snCNfyDIIT98W8/edit?usp=sharing) |
 | **03** | A DEFINIR | [Acessar Slides]() | [Acessar Tarefa]() |
 | **04** | A DEFINIR | [Acessar Slides]() | [Acessar Tarefa]() |
 | **05** | A DEFINIR | [Acessar Slides]() | [Acessar Tarefa]() |
