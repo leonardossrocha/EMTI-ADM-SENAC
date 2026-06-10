@@ -8,7 +8,7 @@ Bem-vindo à central de Unidades Curriculares do 1º Ano. Esta pasta reúne todo
 
 Clique na UC desejada para acessar o cronograma completo, os links dos slides de aula, orientações para tarefas e materiais de apoio:
 
-### [UC 1 - Executar ações relacionadas à qualidade de vida, saúde e segurança nos ambientes de trabalho](./2026/UCs/Saude-e-Seguranca-no-Trabalho/) (46h)
+### [UC 1 - Executar ações relacionadas à qualidade de vida, saúde e segurança nos ambientes de trabalho](./2026/UCs/Executar%20acoes%20relacionadas%20a%20qualidade%20de%20vida/) (46h)
 * **Foco:** Normas Regulamentadoras (NRs 01, 05, 06 e 17), Classificação de Riscos Ambientais, Ergonomia Corporal/Mental e Modelos de QVT (Richard Walton).
 * **Projetos:** Auditoria Diagnóstica com Mapeamento Gráfico de Riscos no Polo, Plano de Adequação Ergonômica 5W2H (Caso LogTech) e Campanha de Endomarketing de Bem-Estar Baseada em Estatística de Clima.
 
