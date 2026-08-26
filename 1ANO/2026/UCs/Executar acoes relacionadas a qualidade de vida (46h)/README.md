@@ -21,7 +21,7 @@
 
 | Encontro | Tema da Aula | 🖥️ Slides de Aula (Google) | 📝 Atividade / Tarefa (Teams) |
 | :---: | :--- | :---: | :---: |
-| **05** | Ergonomia Corporal e Mental: Diretrizes da NR-17 | [Acessar Slides]() | [Acessar Tarefa]() |
+| **05** | Ergonomia Corporal e Mental: Diretrizes da NR-17 | [Acessar Slides](https://docs.google.com/presentation/d/1nkdQFIfW4WgKCAg-rZ3FLVL-XeB7tTJPlu3S7V-BrvM/edit?usp=sharing) | [Acessar Tarefa](https://docs.google.com/document/d/1emIKXjANE6dcjU3mMiekIZDKAH0JUDW2ssJcAq7d-9Y/edit?usp=sharing) |
 | **06** | Medidas de Controle (EPI/EPC) e Finanças Ocupacionais | [Acessar Slides]() | [Acessar Tarefa]() |
 | **07** | Planejamento Estratégico Aplicado: Elaboração da Matriz 5W2H | [Acessar Slides]() | [Acessar Tarefa]() |
 | **08** | Defesa de Projetos: A Grande Banca de Pitch Preventivo | [Acessar Slides]() | [Acessar Tarefa]() |
