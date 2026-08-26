@@ -15,7 +15,7 @@
 | **01** | Fundamentos Ocupacionais, Marcos Legais e OIT | [Acessar Slides](https://docs.google.com/presentation/d/1VKlgifPnpRajwTgQkSn1oGhd_eOpEoRlKLuXmHd1EwA/edit?usp=sharing) | [Acessar Tarefa](https://docs.google.com/document/d/1pWF57_csFUjE-oc4ZMLjW-ApGIqGb72xBuVQXI8AWaQ/edit?usp=sharing) |
 | **02** | A Legislação na Prática Administrativa: NR-01 & NR-05 (CIPA) | [Acessar Slides](https://docs.google.com/presentation/d/1EV3l80W-hUt9o3hwEKrzsLic4nPtN9yYg76JJCCmqpE/edit?usp=sharing) | [Acessar Tarefa](https://docs.google.com/document/d/1x83PP-pZ-fHDvZNqTxKc8igMgB-lUDbrgIOVvD17s-4/edit?usp=sharing) |
 | **03** | Tipologia de Riscos Ambientais e Técnicas de Inspeção de Campo | [Acessar Slides](https://docs.google.com/presentation/d/1GFAAOADuK1qf1gBio_-LE93uEI0uQPfw8188y9B1dm8/edit?usp=sharing) | [Acessar Tarefa](https://docs.google.com/document/d/1N9_YLJaTV8J87w6EhFRyTq5h-OgBnug422UUDoT2S1o/edit?usp=sharing) |
-| **04** | Modelagem de Mapas de Riscos & Fechamento do Projeto 1 | [Acessar Slides]() | [Acessar Tarefa]() |
+| **04** | Modelagem de Mapas de Riscos & Fechamento do Projeto 1 | [Acessar Slides](https://docs.google.com/presentation/d/1Ov-0MqfoCY3gTMMrGP14_y5s7WaB06903xFnBHIhGF0/edit?usp=sharing) | [Acessar Tarefa](https://docs.google.com/document/d/1YsUy1KtAYgbFWuwNrSMZuZR87n9ccOwhdGh4os1H8H8/edit?usp=sharing) |
 
 **Situação de Aprendizagem 2 - Plano de Intervenção Ergonômica e Prevenção de Acidentes**
 
