@@ -20,7 +20,7 @@
 | Encontro | Tema da Aula | 🖥️ Slides de Aula (Google) | 📝 Atividade / Tarefa (Teams) |
 | :---: | :--- | :---: | :---: |
 | **03** | CLT vs. PJ | [Acessar Slides](https://docs.google.com/presentation/d/1vWGxPuPcaiIYCaGGKy2t75Y301kBNTeLZoif4CjJz3c/edit?usp=sharing) | [Acessar Tarefa](https://docs.google.com/document/d/1iDKtVZ7NlhADcFoB9dSo71bRJSiub6feHo5-RnZ5gTI/edit?usp=sharing) |
-| **04** | Consultoria de Carreira e Parecer Financeiro | [Acessar Slides]() | [Acessar Tarefa]() |
+| **04** | Consultoria de Carreira e Parecer Financeiro | [Acessar Slides](https://docs.google.com/presentation/d/1VGSnYaOEqJZW75rndsAJ-lcxKma3Ft3jvbrmjBxOyRs/edit?usp=sharing) | [Acessar Tarefa](https://docs.google.com/document/d/1OycCAnwrQOyW96kVzd0JSPCgUpKvIR3OV3kCO72cOvA/edit?usp=sharing) |
 
 **Situação de Aprendizagem 3 - Gestão de Patrimônio: Ativos vs. Passivos**
 
