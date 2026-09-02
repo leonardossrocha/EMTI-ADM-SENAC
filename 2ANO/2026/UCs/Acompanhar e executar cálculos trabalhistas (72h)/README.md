@@ -55,10 +55,12 @@ Para o profissional de Administração, dominar o processamento de folha de paga
 
 Para aprovação nesta Unidade Curricular, o estudante deve atingir os seguintes fazeres e indicadores profissionais:
 
-1. **Indicador 1:** Consolida informações pertinentes ao processo de folha de pagamento e rotinas de departamento pessoal.
-2. **Indicador 2:** Efetua, sob supervisão, o cálculo de proventos, descontos, encargos sociais e benefícios trabalhistas.
-3. **Indicador 3:** Executa cálculos de apuração de férias, 13º salário e verbas rescisórias conforme a modalidade de encerramento contratual.
-4. **Indicador 4:** Estrutura relatórios, recibos de pagamento (holerites) e demonstrativos financeiros que possibilitem o atendimento ágil a clientes internos.
+1. **Indicador 1:** Consolida informações pertinentes ao processo de elaboração de folha de pagamento e de concessão de benefícios, conforme diretrizes da organização, legislação e normas vigentes.
+2. **Indicador 2:** Efetua, sob supervisão, cálculo de proventos e descontos, conforme diretrizes da organização, a legislação e as normas vigentes.
+3. **Indicador 3:** Efetua, sob supervisão, cálculo de 13° salário, férias e rescisões contratuais, conforme diretrizes da organização, a legislação e as normas vigentes.
+4. **Indicador 4:** Efetua, sob supervisão, cálculo de recolhimento dos encargos sociais pertinentes, conforme diretrizes da organização, legislação e normas vigentes.
+5. **Indicador 4:** Atende clientes internos, registra necessidades e retorna as solicitações, conforme diretrizes da organização, a legislação e as normas vigentes.
+
 
 ---
 
