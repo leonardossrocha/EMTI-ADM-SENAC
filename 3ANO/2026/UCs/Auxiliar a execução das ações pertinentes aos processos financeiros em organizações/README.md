@@ -16,8 +16,8 @@
 | **02** | Documentação Fiscal, Não Fiscal e Classificação CFOP | [Acessar Slides](https://docs.google.com/presentation/d/1_bUhwyQMAAb99z-5CHM1_flYczMF-D9o293u3BgCsjQ/edit?usp=sharing) | [Acessar Tarefa](https://docs.google.com/document/d/1s-INinfavG2QPDDm6wZ-Je1Uai-m_e-o/edit?usp=sharing&ouid=110622535688416226458&rtpof=true&sd=true) [Modelo Planilha](https://docs.google.com/spreadsheets/d/1-BCJ0yCaXUZ95Lm7EbMmXipK42A-idTy/edit?usp=sharing&ouid=110622535688416226458&rtpof=true&sd=true) |
 | **03** | Plano de Contas Contábil e Centros de Custos | [Acessar Slides](https://docs.google.com/presentation/d/1X0JXE5in2YVU2Pfiw2gN8lMKYic29F7rcjE4ZsC7Azg/edit?usp=sharing) | [Acessar Tarefa](https://docs.google.com/document/d/1-Uyx64hmVFy47kcitGk0Nlel5LxOgIjaSstT8vByOYc/edit?usp=sharing) |
 | **04** | Fichas Cadastrais (Clientes/Fornecedores) e Sigilo da Informação (LGPD) | [Acessar Slides](https://docs.google.com/presentation/d/1S6rpzeHQ_a2_mwHLvAfSVd2pKvgtPk0BA01dN9QooYE/edit?usp=sharing) | [Acessar Tarefa](https://docs.google.com/spreadsheets/d/1DdNFLxXvJwcUy_8zJ0iKokLnwghFPC-xn_RafpYECuk/edit?usp=sharing) |
-| **05** | Matemática Financeira Aplicada (Juros, Descontos, Multas e Prazos) | [Acessar Slides]() | [Acessar Tarefa]() |
-| **06** | Relatórios de Provisão Financeira e Integração entre Setores | [Acessar Slides]() | [Acessar Tarefa]() |
+| **05** | Matemática Financeira Aplicada (Juros, Descontos, Multas e Prazos) | [Acessar Slides](https://docs.google.com/presentation/d/1q8NKF0LaUA1OWkJg79tqSVPNABT-z1Qc8dB6RzneyTM/edit?usp=sharing) | [Acessar Tarefa](https://docs.google.com/document/d/1DwuzlfMV2D7Wcl1UEkMuOk8gnbqFVzPQol5nDrW_OBE/edit?usp=sharing) |
+| **06** | Relatórios de Provisão Financeira e Integração entre Setores | [Acessar Slides](https://docs.google.com/presentation/d/1CQw3FbB_SrqH1Q5g9xH0I7w8lFhD2jXdpiJ0sthVNos/edit?usp=sharing) | [Acessar Tarefa](https://docs.google.com/document/d/1FyCCOd7ailyGXzhgg5-yNWeHs3QsEaCCam7DREpApno/edit?usp=sharing) |
 
 **Situação de Aprendizagem 2 — Tesouraria, Gestão de Contas, Cobrança e Conciliação (24h)**
 
