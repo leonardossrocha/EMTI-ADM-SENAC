@@ -22,9 +22,9 @@
 | Encontro | Tema da Aula | 🖥️ Slides de Aula (Google) | 📝 Atividade / Tarefa (Teams) |
 | :---: | :--- | :---: | :---: |
 | **05** | Ergonomia Corporal e Mental: Diretrizes da NR-17 | [Acessar Slides](https://docs.google.com/presentation/d/1nkdQFIfW4WgKCAg-rZ3FLVL-XeB7tTJPlu3S7V-BrvM/edit?usp=sharing) | [Acessar Tarefa](https://docs.google.com/document/d/1emIKXjANE6dcjU3mMiekIZDKAH0JUDW2ssJcAq7d-9Y/edit?usp=sharing) |
-| **06** | Medidas de Controle (EPI/EPC) e Finanças Ocupacionais | [Acessar Slides]() | [Acessar Tarefa]() |
-| **07** | Planejamento Estratégico Aplicado: Elaboração da Matriz 5W2H | [Acessar Slides]() | [Acessar Tarefa]() |
-| **08** | Defesa de Projetos: A Grande Banca de Pitch Preventivo | [Acessar Slides]() | [Acessar Tarefa]() |
+| **06** | Medidas de Controle (EPI/EPC) e Finanças Ocupacionais | [Acessar Slides](https://docs.google.com/presentation/d/1EaSzVVh4FL4hCDmdWJepG6UKVqtbExnzPBrmBFSIJjY/edit?usp=sharing) | [Acessar Tarefa](https://docs.google.com/document/d/1BnOVrEUw94Due58zY5Ou0bpxbgV1tssrXQk-HBRkGN8/edit?usp=sharing) |
+| **07** | Planejamento Estratégico Aplicado: Elaboração da Matriz 5W2H | [Acessar Slides](https://docs.google.com/presentation/d/1jU-UXsvTEoDzshOynNqjzg2lqARb1Is8Z2lQW48325g/edit?usp=sharing) | [Acessar Tarefa](https://docs.google.com/document/d/1B78KLM60bvN_dQUqu_UcuR9xuhyVmnddTE4Qvydi-VE/edit?usp=sharing) |
+| **08** | Defesa de Projetos: A Grande Banca de Pitch Preventivo | [Acessar Slides](https://docs.google.com/presentation/d/10zQA6h0xPiF9254uQtmBhpgwOf1tuGplHZ0zqusDhKg/edit?usp=sharing) | [Acessar Tarefa](https://docs.google.com/document/d/17tTM3HikWzhhZ3y6Ibo_SAstt_lnkiMrY15R0Gyu3ek/edit?usp=sharing) |
 
 **Situação de Aprendizagem 3 - Programa de Qualidade de Vida no Trabalho (QVT) e Campanhas**
 
